@@ -3,3 +3,7 @@ Library
 Temp
 *.suo
 *.csproj
+/Builds
+/Logs
+/obj
+/.vsconfig
